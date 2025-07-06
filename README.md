@@ -428,7 +428,7 @@ That's it! You have successfully created a CI/CD pipeline for your application. 
 
 ## Contact
 
-If you have any questions or feedback, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/realkaiz). Please be respectful and professional in your communication. I am always open to feedback and suggestions, and I will do my best to respond to your queries in a timely manner.
+If you have any questions or feedback, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/realkaiz). Please be respectful and professional in your communication. I am always open to feedback and suggestions, but I will not tolerate any disrespectful behavior.
 
 ## Conclusion
 
