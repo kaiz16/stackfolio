@@ -50,9 +50,10 @@ Welcome to Stackfolio! This repository is a collection of my personal notes, res
 
 ## Tech Stacks
 
-- **Frontend**: React, React Native/Expo, Svelte/SvelteKit, Vue, Next.js, Tailwind CSS, Typescript
-- **Backend**: Node.js, Express, Dgraph, Hasura GraphQL, PostgreSQL, Supabase
-- **CI/CD**: GitHub Actions, Docker, Google Cloud Platform
+- **Frontend**: Typescript, React, React Native/Expo, Svelte/SvelteKit, Vue.js, Next.js, Tailwind CSS
+- **Backend**: Node.js, TypeScript, Express, Hasura GraphQL Engine, Python
+- **Database**: PostgreSQL, Supabase, Dgraph
+- **DevOps**: GitHub Actions, Docker, Google Cloud Platform
 
 ## Code Strategies
 
@@ -155,12 +156,12 @@ Setting sentry is different for every language. As such, there's no "one-case fi
 
 | Framework/Language | Guide                                                                      |
 | ------------------ | -------------------------------------------------------------------------- |
-| Vue                | [Vue Guide](https://docs.sentry.io/platforms/javascript/guides/vue/)       |
+| Vue.js             | [Vue.js Guide](https://docs.sentry.io/platforms/javascript/guides/vue/)    |
 | React              | [React Guide](https://docs.sentry.io/platforms/javascript/guides/react)    |
 | React Native       | [React Native Guide](https://docs.sentry.io/platforms/react-native)        |
 | Svelte             | [Svelte Guide](https://docs.sentry.io/platforms/javascript/guides/svelte/) |
 | Browser JS         | [Browser JS Guide](https://docs.sentry.io/platforms/javascript)            |
-| Node.js           | [Node.js Guide](https://docs.sentry.io/platforms/node)                      |
+| Node.js            | [Node.js Guide](https://docs.sentry.io/platforms/node)                     |
 | Python             | [Python Guide](https://docs.sentry.io/platforms/python/)                   |
 
 ## Deploying on Google Cloud Platform
@@ -363,18 +364,23 @@ Link: [google-cloud-functions-starter](./templates/stackfolio-gcloud-function-st
    - This file is used to configure the Github Action. It tells Github Actions how to build and deploy your application.
 
 #### React Starter
+
 Coming soon!
 
 #### Next.js Starter
+
 Coming soon!
 
 #### Vue.js Starter
+
 Coming soon!
 
 #### Svelte Starter
+
 Coming soon!
 
 #### Expo Starter
+
 Coming soon!
 
 ### Step 5: Checklist Verification
