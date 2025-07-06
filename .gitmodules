@@ -1,0 +1,9 @@
+[submodule "templates/stackfolio-gcloud-function-starter"]
+	path = templates/stackfolio-gcloud-function-starter
+	url = https://github.com/kaiz16/stackfolio-gcloud-function-starter.git
+[submodule "templates/stackfolio-node-mvc-starter"]
+	path = templates/stackfolio-node-mvc-starter
+	url = https://github.com/kaiz16/stackfolio-node-mvc-starter.git
+[submodule "templates/stackfolio-hasura-starter"]
+	path = templates/stackfolio-hasura-starter
+	url = https://github.com/kaiz16/stackfolio-hasura-starter.git

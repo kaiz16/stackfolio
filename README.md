@@ -335,7 +335,7 @@ Provided below are some examples of Github Actions that I use. You can use them 
 
 A Node.js MVC starter template that uses Express, TypeScript, and PostgreSQL (Supabase). Has a basic authentication system using JWT and a health check endpoint. Deployed on Google Cloud Run.
 
-Link: [node-mvc-starter](https://github.com/yourusername/node-mvc-starter)
+Link: [node-mvc-starter](./templates/stackfolio-node-mvc-starter/)
 
 1. Create a `Dockerfile` in the root of your repository and add the config as seen in the example below.
    - This file is used to build the Docker image for your application.
@@ -346,7 +346,7 @@ Link: [node-mvc-starter](https://github.com/yourusername/node-mvc-starter)
 
 A Hasura GraphQL framework template that uses PostgreSQL (Supabase) as the database. Deployed on Google Cloud Run.
 
-Link: [hasura-graphql-starter](https://github.com/yourusername/hasura-graphql-starter)
+Link: [hasura-graphql-starter](./templates/stackfolio-hasura-starter/)
 
 1. Create a `Dockerfile` in the root of your repository and add the config as seen in the example below.
    - This file is used to build the Docker image for your application.
@@ -357,7 +357,7 @@ Link: [hasura-graphql-starter](https://github.com/yourusername/hasura-graphql-st
 
 A minimal serverless function starter template that uses Node.js. Deployed on Google Cloud Functions.
 
-Link: [google-cloud-functions-starter](https://github.com/yourusername/google-cloud-functions-starter)
+Link: [google-cloud-functions-starter](./templates/stackfolio-gcloud-function-starter/)
 
 1. Create a new workflow file in the `.github/workflows` folder and name it `[stage].deploy.yaml`, where `[stage]` is the stage name (eg: development) and add the script as seen in the example below.
    - This file is used to configure the Github Action. It tells Github Actions how to build and deploy your application.
